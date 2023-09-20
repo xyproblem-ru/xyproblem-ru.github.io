@@ -1,4 +1,3 @@
-Оригинал: [XYProblem.Info](https://xyproblem.info/)
 # Проблема XY
 
 ## Что это такое?
